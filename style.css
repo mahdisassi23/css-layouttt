@@ -1,0 +1,311 @@
+.main-nav {
+    position:center;
+    float: right;
+}
+  
+.main-menu {
+    list-style: none;
+    font-size: .9375rem;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1.33;
+    display: flex
+
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+a1{color:#00b39b}
+a{color:#ababab}
+
+/* ----------------------------------------------------------------- */
+#introduction{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #00b39b;
+  padding: 2% 10%;
+}
+#introduction_part {
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    align-items: flex-start;
+    /* width: 20%; */
+    margin: 2% 2%;
+    justify-content: space-around;
+    display: flex;
+  }
+ 
+  #introduction_part h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: 'Inconsolata', monospace;
+    margin: 2%;
+  }
+  #introduction_part_paragraph {
+    display: flex;
+  }
+  #introduction_part_paragraph p {
+    color: gray;
+    line-height: 1.75;
+    font-weight: 200;
+    padding: 2%;
+  }
+   
+   #cards_part{
+     display: flex;
+     margin: 2% 10%;
+     
+   }
+   #card1{
+     background-color: #00b39b;
+   }
+   /* .card{
+     width: 200px;
+   } */
+
+   #card2{
+    
+   background-color:  #3d83df; }
+
+   #card3{
+     background-color:#1b2734 ;
+   }
+
+   
+  
+  #mmm
+  {display: flex;
+    flex-wrap: wrap;
+    
+    line-height: 1.75;
+    padding: 2%;
+    justify-content: space-around;
+    
+
+    background-color: white;
+    
+    
+    padding: 2%;
+    margin: 2%; }
+
+
+
+  
+    #www2{
+      width: 200px;
+      justify-content: space-around;
+      /* display: flex; */
+      width: 200
+  px
+  ;
+      
+    
+    
+  
+  
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin: 2%;
+      padding: 2%;
+  }
+  
+  
+ 
+
+
+
+#www_part2
+{background-color:#d9f6f6 ;
+display: flex;
+background-color: #d9f6f6;
+  display: flex;
+  HEIGHT: 500px
+
+;
+  overflow: hidden;
+}
+  
+  
+
+  #html{color: cyan;
+  align-items: center;
+  flex-direction: column;
+  padding: 2% 30%; }
+
+  #htmls{color: black;}
+    /* *********************************************** */
+/* Countries Part CSS */
+#countries {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* box model */
+  margin: 2% 10%;
+}
+.country {
+  margin: 2%;
+  border-radius: 10px;
+}
+.country img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+
+.country div {
+  display: flex;
+  justify-content: space-between;
+  padding: 5%; }
+
+  button{background-color: blue;
+  color: azure;}
+
+  h7 {color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding: 5% 10%;
+    font-size: 30px;
+    
+  }
+
+  button {flex-direction: column;
+    align-items: center;
+  display: flex;
+
+color: cornsilk;
+padding: 2% 10%;}
+
+#countries25 {
+  /* flex-direction: column; */
+  /* justify-content: center; */
+ 
+  /* width: 20%; */
+  margin: 2% 2%;
+  justify-content: space-around;
+  display: flex;}
+  
+
+  h1{color: #00b39b;}
+
+  #www3{
+    width: 200px;
+    justify-content: space-around;
+    /* display: flex; */
+    width: 200
+px
+;
+    
+  
+  
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    margin: 2%;
+    padding: 2%;
+}
+#www4{
+  width: 200px;
+  justify-content: space-around;
+  /* display: flex; */
+  width: 200
+px
+;
+  
+
+
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  margin: 2%;
+  padding: 2%;
+}
+#www5{
+  width: 200px;
+  justify-content: space-around;
+  /* display: flex; */
+  width: 200
+px
+;
+  
+
+
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  margin: 2%;
+  padding: 2%;
+}
+#cards_partss {display: flex;
+  margin: 4%;
+  padding: 4%;
+  align-items: center;
+}
+#cards1 {padding: 2% 10%;
+  font-size: 150%;
+color:rgb(59, 67, 138);
+}
+
+#abcd{display: flex;
+
+width: 40%;
+margin: 2%;
+padding: 2%;
+box-sizing: inherit;
+flex-wrap: wrap;}
+
+#mehdi{display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#sassi{color: rgb(5, 17, 122);
+}
+#zqsd {color: grey;}
+
+p9{color: grey;
+align-items: center;
+justify-content: center;
+display: flex;}
+
+#logo1 {fill: #ababab;
+  filter: grayscale(1);}
+  
+
+ 
+
+ 
+  
+  
+
+
+
+
+
+
+
+  
+
+
+    
+  
